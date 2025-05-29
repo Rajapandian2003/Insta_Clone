@@ -1,0 +1,217 @@
+{
+    "post": [
+        {
+            "id": 1,
+            "user": {
+                "id": 101,
+                "username": "sathish_ix._xv_.ii",
+                "profilePic": "http://localhost:3000/assets/sathish.jpeg"
+            },
+            "image": "http://localhost:3000/assets/sathish.jpeg",
+            "caption": "Enjoying the sunny day at the beach! 🌞🏖️",
+            "likes": 120,
+            "comments": [
+                {
+                    "username": "jane_doe",
+                    "text": "Wow, looks amazing!"
+                },
+                {
+                    "username": "alex",
+                    "text": "I wish I was there!"
+                }
+            ],
+            "timestamp": "2025-05-18T10:30:00Z"
+        },
+        {
+            "id": 2,
+            "user": {
+                "id": 102,
+                "username": "the_black_arun",
+                "profilePic": "http://localhost:3000/assets/arun.jpeg"
+            },
+            "image": "http://localhost:3000/assets/arun.jpeg",
+            "caption": "New art piece finished 🎨✨",
+            "likes": 98,
+            "comments": [
+                {
+                    "username": "artlover",
+                    "text": "Stunning work!"
+                }
+            ],
+            "timestamp": "2025-05-18T12:00:00Z"
+        },
+        {
+            "id": 3,
+            "user": {
+                "id": 103,
+                "username": "mm93mohan",
+                "profilePic": "http://localhost:3000/assets/mohan.jpeg"
+            },
+            "image": "http://localhost:3000/assets/mohan.jpeg",
+            "caption": "Enjoying the sunny day at the beach! 🌞🏖️",
+            "likes": 120,
+            "comments": [
+                {
+                    "username": "jane_doe",
+                    "text": "Wow, looks amazing!"
+                },
+                {
+                    "username": "alex",
+                    "text": "I wish I was there!"
+                }
+            ],
+            "timestamp": "2025-05-18T10:30:00Z"
+        },
+        {
+            "id": 4,
+            "user": {
+                "id": 104,
+                "username": "muthu_",
+                "profilePic": "http://localhost:3000/assets/muthu.jpeg"
+            },
+            "image": "http://localhost:3000/assets/muthu.jpeg",
+            "caption": "New art piece finished 🎨✨",
+            "likes": 98,
+            "comments": [
+                {
+                    "username": "artlover",
+                    "text": "Stunning work!"
+                }
+            ],
+            "timestamp": "2025-05-18T12:00:00Z"
+        },
+        {
+            "id": 5,
+            "user": {
+                "id": 105,
+                "username": "_.karthxzx.__",
+                "profilePic": "http://localhost:3000/assets/karthi.jpg"
+            },
+            "image": "http://localhost:3000/assets/karthi.jpg",
+            "caption": "Enjoying the sunny day at the beach! 🌞🏖️",
+            "likes": 120,
+            "comments": [
+                {
+                    "username": "jane_doe",
+                    "text": "Wow, looks amazing!"
+                },
+                {
+                    "username": "alex",
+                    "text": "I wish I was there!"
+                }
+            ],
+            "timestamp": "2025-05-18T10:30:00Z"
+        },
+        {
+            "id": 6,
+            "user": {
+                "id": 106,
+                "username": "_p_r_a_k_a_s_h_tj__",
+                "profilePic": "http://localhost:3000/assets/prakash.jpeg"
+            },
+            "image": "http://localhost:3000/assets/prakash.jpeg",
+            "caption": "New art piece finished 🎨✨",
+            "likes": 98,
+            "comments": [
+                {
+                    "username": "artlover",
+                    "text": "Stunning work!"
+                }
+            ],
+            "timestamp": "2025-05-18T12:00:00Z"
+        }
+    ],
+    "profile": {
+        "id": 101,
+        "username": "duz_zky",
+        "profilePic": "http://localhost:3000/assets/profile.jpg"
+    },
+    "suggestion": [
+        {
+            "id": 101,
+            "username": "sathish_ix._xv_.ii",
+            "profilePic": "http://localhost:3000/assets/sathish.jpeg"
+        },
+        {
+            "id": 102,
+            "username": "the_black_arun",
+            "profilePic": "http://localhost:3000/assets/arun.jpeg"
+        },
+        {
+            "id": 103,
+            "username": "mm93mohan",
+            "profilePic": "http://localhost:3000/assets/mohan.jpeg"
+        },
+        {
+            "id": 104,
+            "username": "muthu_",
+            "profilePic": "http://localhost:3000/assets/muthu.jpeg"
+        },
+        {
+            "id": 105,
+            "username": "_.karthxzx.__",
+            "profilePic": "http://localhost:3000/assets/karthi.jpg"
+        },
+        {
+            "id": 106,
+            "username": "_p_r_a_k_a_s_h_tj__",
+            "profilePic": "http://localhost:3000/assets/prakash.jpeg"
+        }
+    ],
+    "story": [
+        {
+            "id": 1,
+            "user": {
+                "id": 101,
+                "username": "sathish_ix._xv_.ii",
+                "profilePic": "http://localhost:3000/assets/sathish.jpeg"
+            },
+            "image": "http://localhost:3000/assets/sathish.jpeg"
+        },
+        {
+            "id": 2,
+            "user": {
+                "id": 102,
+                "username": "the_black_arun",
+                "profilePic": "http://localhost:3000/assets/arun.jpeg"
+            },
+            "image": "http://localhost:3000/assets/arun.jpeg"
+        },
+        {
+            "id": 3,
+            "user": {
+                "id": 103,
+                "username": "mm93mohan",
+                "profilePic": "http://localhost:3000/assets/mohan.jpeg"
+            },
+            "image": "http://localhost:3000/assets/mohan.jpeg"
+        },
+        {
+            "id": 4,
+            "user": {
+                "id": 104,
+                "username": "muthu_",
+                "profilePic": "http://localhost:3000/assets/muthu.jpeg"
+            },
+            "image": "http://localhost:3000/assets/muthu.jpeg"
+        },
+        {
+            "id": 5,
+            "user": {
+                "id": 105,
+                "username": "_.karthxzx.__",
+                "profilePic": "http://localhost:3000/assets/karthi.jpg"
+            },
+            "image": "http://localhost:3000/assets/karthi.jpg"
+        },
+        {
+            "id": 6,
+            "user": {
+                "id": 106,
+                "username": "_p_r_a_k_a_s_h_tj__",
+                "profilePic": "http://localhost:3000/assets/prakash.jpeg"
+            },
+            "image": "http://localhost:3000/assets/prakash.jpeg"
+        }
+    ]
+}
